@@ -1,2 +1,2 @@
-# confg
-配置文件
+# config-repo
+用来存放配置文件
